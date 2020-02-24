@@ -1,0 +1,2 @@
+Flask==1.1.1
+Flask-restx==0.1.1
