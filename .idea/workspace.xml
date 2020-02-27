@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bce0676-31ca-45d1-987c-c9331cff67fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/api/ping.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/api/ping.py" afterDir="false" />
     </list>
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582538607546</updated>
-      <workItem from="1582538610598" duration="31222000" />
+      <workItem from="1582538610598" duration="31772000" />
     </task>
     <servers />
   </component>
